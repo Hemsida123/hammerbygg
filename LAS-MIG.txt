@@ -1,0 +1,18 @@
+HAMMERBYGG – FILER FÖR GITHUB OCH WEBBHOTELL
+
+Packa upp ZIP-filen och ladda upp ALLA filer och mappen assets tillsammans.
+index.html ska ligga i samma nivå som styles.css, script.js och de övriga HTML-filerna.
+Ladda inte enbart upp index.html – bilder, typsnitt och undersidor ligger i egna filer.
+
+GitHub Pages: välj rätt branch och rotmapp under Settings > Pages.
+Inget byggsteg eller installation behövs.
+
+Sökmotorinställningarna i paketet använder den avsedda riktiga domänen https://hammerbygg.se.
+Sidtitlar, beskrivningar, alt-texter, JSON-LD och sitemap ingår. Sidan 404.html är noindex.
+Om en annan domän ska vara den riktiga hemsidan, byt domänen i canonical, Open Graph, JSON-LD, sitemap.xml och robots.txt.
+En GitHub-demolänk är inte i sig en lansering på hammerbygg.se.
+
+Kontakt: 070 898 42 12 och dennis@tyresobygg.se, från befintliga hemsidan.
+Bekräfta nya mejladressen om företaget har bytt den.
+Google-betyget är en daterad ögonblicksbild från 22 oktober 2026, inte ett liveflöde.
+Den nya logotypen är ett förslag. Bekräfta logotyp, innehåll och rättigheter till företagets bilder före kommersiell lansering.
